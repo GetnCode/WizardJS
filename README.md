@@ -1,6 +1,6 @@
 # WizardJS
 
-#Example
+# Example
 
 ````javscript
 var wizard = new Wizard(".wizard");
